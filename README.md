@@ -88,3 +88,6 @@ By the end of this course, you will be able to:
 
 This repository is open-sourced under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=debnsuma/fcc-ai-engineering-aws&type=Date)](https://star-history.com/#debnsuma/fcc-ai-engineering-aws&Date)
