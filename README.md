@@ -55,7 +55,7 @@ Our course emphasizes hands-on experience with Multimodal RAG, enabling you to b
 By the end of this course, you will be able to:
 
 1. Understand the basics of Embeddings and how to use them with Amazon Bedrock
-2. How to use Amazon Tian Text Embeddings for text/image embeddings
+2. How to use Amazon Titan Text Embeddings for text/image embeddings
 3. Understand internals about Multimodal LLMs, CLIP, and BLIP-2
 4. How to use Multimodal LLMs with Amazon Bedrock
 5. How to use Amazon Nova Multimodal Model for Text, Image and Video Understanding
