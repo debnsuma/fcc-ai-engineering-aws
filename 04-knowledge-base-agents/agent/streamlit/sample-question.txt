@@ -1,0 +1,14 @@
+Test Agents
+===========
+Create a new claim
+Gather evidence for claim ID 1j33p-4a.
+Which claims have open status?
+What should the driver do after an accident ?
+What is recommended for the accident report and images?
+What is a deductible and how does it work?
+Whats the claim amount for the Claim ID 2s34w-8x ?
+
+
+
+
+
