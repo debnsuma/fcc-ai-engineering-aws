@@ -1,0 +1,10 @@
+pillow
+base64
+colpali_engine
+io
+os
+pymupdf
+requests
+shutil
+torch
+tqdm
