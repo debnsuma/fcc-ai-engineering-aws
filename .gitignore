@@ -1,0 +1,27 @@
+# Ignore all files in the .ipynb_checkpoints directory
+.ipynb_checkpoints/**
+
+# Ignore all files in the .DS_Store directory
+.DS_Store/**
+.DS_Store
+
+# Ignore all files in the agent-env directory
+./04-knowledge-base-agents/agent/streamlit/agent-env/**
+./04-knowledge-base-agents/agent/streamlit/agent-env
+
+# Ignore all files for the virtual environment
+04-knowledge-base-agents/agent/streamlit/agent-env
+04-knowledge-base-agents/agent/streamlit/agent-env/** */
+
+04-knowledge-base-agents/agent/streamlit/__pycache__
+04-knowledge-base-agents/agent/streamlit/__pycache__/**
+
+# Ignore all files under "data" nested under any directory
+data/**
+data
+
+# Ignore all files under "model_cache" nested under any directory
+model_cache/**
+model_cache
+
+
