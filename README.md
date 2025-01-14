@@ -23,6 +23,7 @@ This course dives deep into the world of AI engineering, leveraging the power of
 - Explore cutting-edge RAG techniques for enhanced information retrieval and generation with [OpenSearch](https://aws.amazon.com/opensearch-service/)
 - Implement practical Multimodal RAG applications using AWS services and tools, like Lambda, DynamoDB, and more
 - Evaluate and optimize AI model performance for production environments
+- Implement Multimodal RAG with Vision Language Models using Colpali and Amazon Nova
 
 Our course emphasizes hands-on experience with Multimodal RAG, enabling you to build context-aware AI systems that can understand and process both textual and visual information effectively.
 
@@ -36,6 +37,7 @@ Our course emphasizes hands-on experience with Multimodal RAG, enabling you to b
 | 4 | [Amazon Nova Multimodal Model](02-multimodal-llm/01_Amazon_Nova.ipynb) | ✅ | Text, Image and Video Understanding with Amazon Nova |
 | 5 | [Multimodal RAG](03-multimodal-rag) | ✅ | Implement sophisticated retrieval systems with Amazon Nova and LangChain |
 | 6 | [Agents with Knowledge Bases](04-knowledge-base-agents) | ✅ | Build an end-to-end application with Bedrock Agents and Knowledge Bases with Amazon Nova |
+| 7 | [Multimodal RAG with Colpali](05-multimodal-rag-with-colpali) | ✅ | Implement sophisticated retrieval systems with Vision Language Models using Colpali and Amazon Nova |
 
 ## 🛠 Technologies/Tools Used
 
