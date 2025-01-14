@@ -23,7 +23,7 @@ This course dives deep into the world of AI engineering, leveraging the power of
 - Explore cutting-edge RAG techniques for enhanced information retrieval and generation with [OpenSearch](https://aws.amazon.com/opensearch-service/)
 - Implement practical Multimodal RAG applications using AWS services and tools, like Lambda, DynamoDB, and more
 - Evaluate and optimize AI model performance for production environments
-- Implement Multimodal RAG with Vision Language Models using Colpali and Amazon Nova
+- Implement Multimodal RAG with Vision Language Models using [Colpali](https://arxiv.org/abs/2407.01449) and Amazon Nova
 
 Our course emphasizes hands-on experience with Multimodal RAG, enabling you to build context-aware AI systems that can understand and process both textual and visual information effectively.
 
