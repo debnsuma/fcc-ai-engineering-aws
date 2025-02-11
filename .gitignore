@@ -24,4 +24,6 @@ data
 model_cache/**
 model_cache
 
-
+# Ignore all files under "matched_images" nested under any directory
+matched_images/**
+matched_images
