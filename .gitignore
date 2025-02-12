@@ -27,3 +27,11 @@ model_cache
 # Ignore all files under "matched_images" nested under any directory
 matched_images/**
 matched_images
+
+# Ignore all files __pycache__ under any directory
+__pycache__/**
+__pycache__
+
+# Ignore all files .DS_Store under any directory
+.DS_Store/**
+.DS_Store
