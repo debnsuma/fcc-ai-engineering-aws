@@ -1,9 +1,0 @@
-streamlit
-crewai
-langchain
-huggingface_hub
-transformers
-torch
-boto3
-python-dotenv
-reportlab 

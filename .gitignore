@@ -35,3 +35,17 @@ __pycache__
 # Ignore all files .DS_Store under any directory
 .DS_Store/**
 .DS_Store
+
+# Ignore .env file under any directory
+.env/**
+.env
+
+# Ignore .env file under any directory
+.env/**
+.env
+05-multimodal-rag-with-colpali/hf_cache/**
+05-multimodal-rag-with-colpali/hf_cache
+
+# Ignore .env file under 05-multimodal-rag-with-colpali directory
+05-multimodal-rag-with-colpali/.env/**
+05-multimodal-rag-with-colpali/.env
