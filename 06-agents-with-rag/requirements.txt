@@ -40,3 +40,6 @@ numpy>=1.26.0
 sentence-transformers>=2.2.2 
 
 PyPDF2==3.0.1 
+
+# Colpali
+colpali-engine

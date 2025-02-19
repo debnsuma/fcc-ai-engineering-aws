@@ -20,6 +20,10 @@
 data/**
 data
 
+# Ignore all files under "data" nested under any directory
+pdf_data/**
+pdf_data
+
 # Ignore all files under "model_cache" nested under any directory
 model_cache/**
 model_cache
@@ -41,8 +45,7 @@ __pycache__
 .env
 
 # Ignore .env file under any directory
-.env/**
-.env
 05-multimodal-rag-with-colpali/hf_cache/**
 05-multimodal-rag-with-colpali/hf_cache
+
 
