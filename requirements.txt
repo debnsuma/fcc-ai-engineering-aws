@@ -1,46 +1,24 @@
-# Core dependencies
-botocore==1.34.162 
-boto3==1.34.162 
-crewai==0.70.1
-crewai-tools==0.12.1
-ipywidgets==8.1.5
-python-dotenv==1.0.1
-IPython>=8.12.0
+# Core dependencies for Multimodal RAG with Amazon Bedrock Nova
+boto3>=1.34.0
+botocore>=1.34.0
+langchain>=0.1.0
+langchain-aws>=0.1.0
+langchain-community>=0.2.17
 
-# Image processing
-pillow==11.1.0
-pdf2image==1.17.0
+# PDF Processing
+PyMuPDF>=1.24.0
+tabula-py>=2.9.0
 
-# Machine Learning & AI
-torch==2.5.1
-transformers==4.46.3
-huggingface-hub==0.28.1
+# Vector Search
+faiss-cpu>=1.8.0
 
-# Vector Database
-qdrant-client==1.12.2
+# Utilities
+numpy>=1.24.0
+tqdm>=4.66.0
+requests>=2.31.0
+python-dotenv>=1.0.0
 
-# Visualization
-matplotlib==3.10.0
-tqdm==4.67.1
-
-# Notebook support
-jupyter==1.1.1
-notebook==7.3.2
-
-# Optional: Local LLM support
-ollama==0.4.7
-
-# Additional dependencies for enhanced RAG and agent functionality
-langchain==0.2.17
-langchain-aws==0.1.17
-duckduckgo_search==6.3.1
-scikit-learn==1.6.1
-pandas==2.2.3
-numpy==1.26.4
-sentence-transformers==3.4.1
-
-PyPDF2==3.0.1
-
-# Colpali
-colpali-engine
-colpali-engine[interpretability]
+# Jupyter Support
+ipython>=8.12.0
+jupyter>=1.1.1
+notebook>=7.3.2
