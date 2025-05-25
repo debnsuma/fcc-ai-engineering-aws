@@ -1,0 +1,174 @@
+CHAPTER
+
+10
+
+The Human Eye and
+the Colourful World
+
+Y
+
+ou have studied in the previous chapter about refraction of light by
+lenses. You also studied the nature, position and relative size of
+images formed by lenses. How can these ideas help us in the study of
+the human eye? The human eye uses light and enables us to see objects
+around us. It has a lens in its structure. What is the function of the lens
+in a human eye? How do the lenses used in spectacles correct defects of
+vision? Let us consider these questions in this chapter.
+We have learnt in the previous chapter about light and some of its
+properties. In this chapter, we shall use these ideas to study some of the
+optical phenomena in nature. We shall also discuss about rainbow
+formation, splitting of white light and blue colour of the sky.
+
+10.1 THE HUMAN EYE
+The human eye is one of the most valuable and sensitive sense organs.
+It enables us to see the wonderful world and the colours around us. On
+closing the eyes, we can identify objects to some extent by their smell,
+taste, sound they make or by touch. It is, however, impossible to identify
+colours while closing the eyes. Thus, of all the sense organs, the human
+eye is the most significant one as it enables us to see the beautiful,
+colourful world around us.
+The human eye is like a camera. Its lens
+system forms an image on a light-sensitive
+screen called the retina. Light enters the eye
+through a thin membrane called the cornea.
+It forms the transparent bulge on the front
+surface of the eyeball as shown in Fig. 10.1.
+The eyeball is approximately spherical in shape
+with a diameter of about 2.3 cm. Most of the
+refraction for the light rays entering the eye
+occurs at the outer surface of the cornea. The
+crystalline lens merely provides the finer
+adjustment of focal length required to focus
+objects at different distances on the retina. We find a structure called iris Figure 10.1
+The human eye
+behind the cornea. Iris is a dark muscular diaphragm that controls the
+size of the pupil. The pupil regulates and controls the amount of light
+
+2024-25
+
+entering the eye. The eye lens forms an inverted real image of the object
+on the retina. The retina is a delicate membrane having enormous
+number of light-sensitive cells. The light-sensitive cells get activated
+upon illumination and generate electrical signals. These signals are
+sent to the brain via the optic nerves. The brain interprets these signals,
+and finally, processes the information so that we perceive objects as
+they are.
+
+10.1.1 Power of Accommodation
+The eye lens is composed of a fibrous, jelly-like material. Its curvature
+can be modified to some extent by the ciliary muscles. The change in the
+curvature of the eye lens can thus change its focal length. When the
+muscles are relaxed, the lens becomes thin. Thus, its focal length
+increases. This enables us to see distant objects clearly. When you are
+looking at objects closer to the eye, the ciliary muscles contract. This
+increases the curvature of the eye lens. The eye lens then becomes thicker.
+Consequently, the focal length of the eye lens decreases. This enables
+us to see nearby objects clearly.
+The ability of the eye lens to adjust its focal length is called
+accommodation. However, the focal length of the eye lens cannot be
+decreased below a certain minimum limit. Try to read a printed page by
+holding it very close to your eyes. You may see the image being blurred
+or feel strain in the eye. To see an object comfortably and distinctly, you
+must hold it at about 25 cm from the eyes. The minimum distance, at
+which objects can be seen most distinctly without strain, is called the
+least distance of distinct vision. It is also called the near point of the eye.
+For a young adult with normal vision, the near point is about
+25 cm. The farthest point upto which the eye can see objects clearly is
+called the far point of the eye. It is infinity for a normal eye. You may note
+here a normal eye can see objects clearly that are between 25 cm and
+infinity.
+Sometimes, the crystalline lens of people at old age becomes milky and
+cloudy. This condition is called cataract. This causes partial or complete
+loss of vision. It is possible to restore vision through a cataract surgery.
+
+10.2 DEFECTS OF VISION AND THEIR CORRECTION
+Sometimes, the eye may gradually lose its power of accommodation.
+In such conditions, the person cannot see the objects distinctly and
+comfortably. The vision becomes blurred due to the refractive defects
+of the eye.
+There are mainly three common refractive defects of vision. These
+are (i) myopia or near -sightedness, (ii) Hypermetropia or far sightedness, and (iii) Presbyopia. These defects can be corrected by
+the use of suitable spherical lenses. We discuss below these defects
+and their correction.
+
+Science
+
+162
+2024-25
+
+(a) Myopia
+Myopia is also known as near sightedness. A person with myopia
+can see nearby objects clearly but
+cannot see distant objects distinctly.
+A person with this defect has the far
+point nearer than infinity. Such a
+person may see clearly upto a
+distance of a few metres. In a myopic
+eye, the image of a distant object is
+formed in front of the retina [Fig.
+10.2 (b)] and not at the retina itself.
+This defect may arise due to (i)
+excessive curvature of the eye lens,
+or (ii) elongation of the eyeball. This
+defect can be corrected by using a
+concave lens of suitable power. This
+Figure 10.2
+is illustrated in Fig. 10.2 (c). A
+(a), (b) The myopic eye, and (c) correction for myopia with a
+concave lens of suitable power will
+concave lens
+bring the image back on to the
+retina and thus the defect is corrected.
+(b) Hypermetropia
+Hypermetropia is also known as far-sightedness.
+A person with hypermetropia can see distant
+objects clearly but cannot see nearby objects
+distinctly. The near point, for the person, is farther
+away from the normal near point (25 cm). Such a
+person has to keep a reading material much
+beyond 25 cm from the eye for comfortable
+reading. This is because the light rays from a
+closeby object are focussed at a point behind the
+retina as shown in Fig. 10.3 (b). This defect arises
+either because (i) the focal length of the eye lens is
+too long, or (ii) the eyeball has become too small.
+This defect can be corrected by using a convex
+lens of appropriate power. This is illustrated in
+Fig. 10.3 (c). Eye-glasses with converging lenses
+provide the additional focussing power required
+for forming the image on the retina.
+(c)
+
+Presbyopia
+The power of accommodation of the eye usually
+decreases with ageing. For most people, the near
+point gradually recedes away. They find it difficult
+to see nearby objects comfortably and distinctly
+without corrective eye-glasses. This defect is
+called Presbyopia. It arises due to the gradual
+
+Figure 10.3
+(a), (b) The hypermetropic eye, and (c)
+correction for hypermetropia
+N = Near point of a
+hypermetropic eye.
+N’ = Near point of a
+normal eye.
+
+163
+
+The Human Eye and the Colourful World
+2024-25
+
+weakening of the ciliary muscles and diminishing flexibility of the
+eye lens. Sometimes, a person may suffer from both myopia and
+hypermetropia. Such people often require bi-focal lenses. A common
+type of bi-focal lenses consists of both concave and convex lenses.
+The upper portion consists of a concave lens. It facilitates distant
+vision. The lower part is a convex lens. It facilitates near vision.
+These days, it is possible to correct the refractive defects with
+contact lenses or through surgical interventions.
+
+2024-25
+
+

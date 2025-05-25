@@ -1,0 +1,16 @@
+[project]
+name = "strands-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "boto3>=1.38.18",
+    "botocore>=1.38.18",
+    "manim>=0.19.0",
+    "mcp>=1.9.0",
+    "numpy>=2.2.6",
+    "pandas>=2.2.3",
+    "strands-agents>=0.1.2",
+    "strands-agents-tools>=0.1.1",
+]
