@@ -15,7 +15,7 @@ A text-to-speech application that uses Claude 3.7 Sonnet to read and summarize d
 [View Demo Summary Speak Documentation](demo-summary-speak/README.md)
 
 #### Demo Recording
-[![Demo Summary Speak](https://img.youtube.com/vi/placeholder/0.jpg)](recording/video_demo_summary_speak.mp4)
+[![Demo Summary Speak](https://img.youtube.com/vi/J3JaXz8hOxM/0.jpg)](https://youtu.be/J3JaXz8hOxM)
 
 ### 2. Demo Manim Video Generation
 
@@ -28,7 +28,7 @@ A project that combines Strands Agents with Manim to generate mathematical anima
 [View Manim Video Generation Documentation](demo-manim-video-gen/README.md)
 
 #### Demo Recording
-[![Demo Manim Video Generation](https://img.youtube.com/vi/placeholder/0.jpg)](recording/video_demo_manim_video_gen.mp4)
+[![Demo Manim Video Generation](https://img.youtube.com/vi/QQmJlI4vR80/0.jpg)](https://youtu.be/QQmJlI4vR80)
 
 ## Getting Started
 

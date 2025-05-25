@@ -4,7 +4,7 @@ This project demonstrates how to use Strands Agents with Manim to generate mathe
 
 ## Demo Recording
 
-[![Demo Manim Video Generation](https://img.youtube.com/vi/placeholder/0.jpg)](../recording/video_demo_manim_video_gen.mp4)
+[![Demo Manim Video Generation](https://img.youtube.com/vi/QQmJlI4vR80/0.jpg)](https://youtu.be/QQmJlI4vR80)
 
 ## Prerequisites
 
@@ -91,7 +91,7 @@ class SquareToCircle(Scene):
 ## Demo Video
 
 Watch the demo video to see the application in action:
-[Demo Manim Video Generation](../recording/video_demo_manim_video_gen.mp4)
+[Demo Manim Video Generation](https://youtu.be/QQmJlI4vR80)
 
 ## Customizing Animations
 

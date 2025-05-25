@@ -4,7 +4,7 @@ This project demonstrates the use of Strands AI to create a text-to-speech appli
 
 ## Demo Recording
 
-[![Demo Summary Speak](https://img.youtube.com/vi/placeholder/0.jpg)](../recording/video_demo_summary_speak.mp4)
+[![Demo Summary Speak](https://img.youtube.com/vi/J3JaXz8hOxM/0.jpg)](https://youtu.be/J3JaXz8hOxM)
 
 ## Features
 
@@ -57,4 +57,4 @@ The application can process files like `chapter10.txt` and generate both a writt
 ## Demo Video
 
 Watch the demo video to see the application in action:
-[Demo Summary Speak Video](../recording/video_demo_summary_speak.mp4)
+[Demo Summary Speak Video](https://youtu.be/J3JaXz8hOxM)
