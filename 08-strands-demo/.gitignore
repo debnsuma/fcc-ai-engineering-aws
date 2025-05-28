@@ -8,3 +8,13 @@ wheels/
 
 # Virtual environments
 .venv
+
+# .env files
+.env
+
+# all .env files in the project
+*.env
+
+# .env files in the demo-agentic-voice-based-rag-with-vision-based-retrieval directory
+08-strands-demo/demo-agentic-voice-based-rag-with-vision-based-retrieval/.env
+
