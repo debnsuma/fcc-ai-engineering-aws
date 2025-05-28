@@ -1,4 +1,4 @@
-# Integrating Visual Document Intelligence with Voice Response with ColPali, Ollama and Phoenix
+# Integrating Visual Document Intelligence with Voice Response with ColPali, Bedrock and Strands Agents
 
 In this example, we demonstrate an **Agentic RAG (Retrieval-Augmented Generation) AI Tutor** that seamlessly combines custom and default tools with open-source toolkits for a multimodal, voice-enabled educational assistant. The core workflow is:
 
@@ -12,7 +12,7 @@ At its core, this system uses:
 - **Text** → for querying (user questions and LLM reasoning)
 - **Voice** → for generation (spoken answers)
 
-All components are orchestrated using the **Phoenix agentic framework**, enabling flexible, modular, and extensible agent workflows.
+All components are orchestrated using the **Strands Agents SDK**, enabling flexible, modular, and extensible agent workflows.
 
 ![Multimodal Diagram](imgs/multimodal.png)
 
@@ -54,8 +54,8 @@ This notebook demonstrates:
 1. **PDF Ingestion:** Download some textbook PDFs. 
 2. **Embedding & Indexing:** Use ColPali to generate embeddings for each page image and store them in Qdrant.
 3. **Retrieval:** For a user query, generate a text embedding and retrieve the most relevant images/pages from Qdrant.
-4. **Agentic RAG:** Use Phoenix to orchestrate retrieval, image reading, and answer generation (with Bedrock/Ollama).
-5. **Voice Output:** The agent can speak the answer aloud using the `speak` tool within Phoenix. 
+4. **Agentic RAG:** Use Strands to orchestrate retrieval, image reading, and answer generation (with Bedrock/Ollama).
+5. **Voice Output:** The agent can speak the answer aloud using the `speak` tool within Strands. 
 
 ## Getting Started
 1. Run the following command to start Jupyter Notebook:
